@@ -1,4 +1,4 @@
-# DDECK
+# DDeck
 
 A Drupal Distribution designed as a foundation for building collaborative platforms with large contributor teams.
 
