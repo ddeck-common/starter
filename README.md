@@ -10,7 +10,7 @@ It is based on :
 - Bootstrap, his ecosystem, and its CSS variables
 - HTMX
 
-## Instalation
+## Installation
 
 `composer create-project ddeck-common/starter my_site_name`
 
