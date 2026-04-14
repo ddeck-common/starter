@@ -70,6 +70,11 @@
             }
         },
         "enable-patching": true,
+        "patches": {
+            "drupal/core": {
+                "Navigation disable topbar": "patches/disable-top-bar.patch"
+            }
+        },
         "installer-paths": {
             "web/core": [
                 "type:drupal-core"
